@@ -14,6 +14,9 @@ I'm a NYC based researcher and financier. My area of expertise involves financia
 
 ### Top Repositories
 
+<a href="https://github.com/KidQuant/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KidQuant&repo=github-readme-stats&theme=buefy" />
+</a>
 
 <!--
 **KidQuant/KidQuant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,7 @@ I'm a NYC based researcher and financier. My area of expertise involves financia
 
 ### GitHub Stats
 
+<!---Andre/?--->
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KidQuant&theme=city_lights)
 
 

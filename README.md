@@ -10,7 +10,7 @@ I'm a NYC based researcher and financier. My area of expertise involves financia
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KidQuant&theme=city_lights)
 
 <!--bernardolm/github-readme-stats - GitHub Stats Card-->
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidQuant&show_icons=true&theme=city)
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidQuant&show_icons=true&theme=city_lights)
 
 
 ### Top Repositories

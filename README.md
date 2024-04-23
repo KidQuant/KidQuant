@@ -6,6 +6,9 @@ I'm a NYC based researcher and financier. My area of expertise involves financia
 
 ### GitHub Stats
 
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KidQuant&theme=city_lights)
+
+
 | <a href="https://github.com/KidQuant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KidQuant&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Quants's github stats" /></a> | <a href="https://github.com/KidQuant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidQuant&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 

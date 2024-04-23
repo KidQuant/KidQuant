@@ -4,7 +4,7 @@
 
 I'm a NYC based researcher and financier. My area of expertise involves financial economics and markets, particularly in the Fixed Income Markets. My research primarily consistent of investments, mobile computing, programming, sports and film. 
 
-<!-- [![Quants's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidQuant)](https://github.com/KidQuant/github-readme-stats)
+[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidQuant)](https://github.com/KidQuant/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KidQuant)](https://github.com/KidQuant/github-readme-stats) -->
 

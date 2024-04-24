@@ -1,5 +1,5 @@
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?theme=dark&i=bash,cpp,git,go,mysql,py,regex" />
+<img src="https://skillicons.dev/icons?theme=dark&i=bash,cpp,git,java,r,mysql,py,regex" />
 </a>
 
 ---

@@ -1,3 +1,6 @@
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?theme=dark&i=bash,cpp,git,go,mysql,py,regex" />
+</a>
 ### Yo 👋
 
 **About Me**
